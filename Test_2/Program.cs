@@ -18,10 +18,6 @@
             { 
                 Console.WriteLine(3);
             }
-
-
-            
-           
         }
     }
 }

@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Введите данные");
             string Bd = Console.ReadLine();
-            if (Bd.Equals("monday", StringComparison.CurrentCultureIgnoreCase))
+            if (Bd.Equals("monday", StringComparison.CurrentCultureIgnoreCase))//Сравнение 2-х строк без зависимости от регистра
             {
                 Console.WriteLine(1);
             }

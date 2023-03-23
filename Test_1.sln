@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test_1", "Test_1\Test_1.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringComparation", "Test_2\StringComparation.csproj", "{557810EC-BE90-4F36-9445-78E394C43FF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithNumbers", "WorkWithNumbers\WorkWithNumbers.csproj", "{AC0AF453-D439-4539-BC4B-BC367E0849F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkWithNumbers", "WorkWithNumbers\WorkWithNumbers.csproj", "{AC0AF453-D439-4539-BC4B-BC367E0849F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOut", "RefOut\RefOut.csproj", "{AD072798-6682-4B25-85B0-C7D98E314F43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{AC0AF453-D439-4539-BC4B-BC367E0849F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC0AF453-D439-4539-BC4B-BC367E0849F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC0AF453-D439-4539-BC4B-BC367E0849F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD072798-6682-4B25-85B0-C7D98E314F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD072798-6682-4B25-85B0-C7D98E314F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD072798-6682-4B25-85B0-C7D98E314F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD072798-6682-4B25-85B0-C7D98E314F43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

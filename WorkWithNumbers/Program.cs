@@ -23,7 +23,7 @@ namespace WorkWithNumbers
                 Console.WriteLine($"{a % b} остаток от деления"); // тоже самое 
             }
             //if (double.TryParse(Console.ReadLine(), System.Globalization.NumberStyles.Any,CultureInfo.GetCultureInfo("en-GB"), out var c))
-            if (double.TryParse(Console.ReadLine().Replace('.', ','), out var c))
+            if (double.TryParse(Console.ReadLine().Replace('.', ','), out var c))// тоже самое
                 {
                 Console.WriteLine($"{c} третье значение");
             }

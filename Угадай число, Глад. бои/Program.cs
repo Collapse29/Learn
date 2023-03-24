@@ -31,7 +31,10 @@
                     Console.WriteLine("Не верно, попробуйте еще раз");
                 }
             }
-                
+             if (tryCount < 0)
+            {
+                Console.WriteLine("Вы проиграли, это было число - " + number);
+            }   
         }
     }
 }

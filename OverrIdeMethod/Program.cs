@@ -65,10 +65,7 @@
             //var b = Convert.ToInt32(Console.ReadLine());
             //var sum = Sum(a,b);
             var x = Console.ReadLine();
-            if (x == "5")
-            {
-                throw new Exception("x=5");
-            }
+        
             var y = Console.ReadLine();
             Console.WriteLine(Sum(x,y));
         }

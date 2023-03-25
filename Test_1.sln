@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GladiatorFights", "Глад
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverrIdeMethod", "OverrIdeMethod\OverrIdeMethod.csproj", "{0E6A170F-2B69-49C4-908A-C166C411BADB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackQueueDictionary", "StackQueueDictionary\StackQueueDictionary.csproj", "{F7E0FD2B-EED7-452D-A487-4FBE2A6F208C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{0E6A170F-2B69-49C4-908A-C166C411BADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E6A170F-2B69-49C4-908A-C166C411BADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E6A170F-2B69-49C4-908A-C166C411BADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E0FD2B-EED7-452D-A487-4FBE2A6F208C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E0FD2B-EED7-452D-A487-4FBE2A6F208C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E0FD2B-EED7-452D-A487-4FBE2A6F208C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E0FD2B-EED7-452D-A487-4FBE2A6F208C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

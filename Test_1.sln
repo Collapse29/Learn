@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkWithNumbers", "WorkWith
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefOut", "RefOut\RefOut.csproj", "{AD072798-6682-4B25-85B0-C7D98E314F43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Угадай число", "Угадай число, Глад. бои\Угадай число.csproj", "{BA6380F2-01D4-4192-A684-427F87E3EC16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessTheNumber", "Угадай число, Глад. бои\GuessTheNumber.csproj", "{BA6380F2-01D4-4192-A684-427F87E3EC16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Гладиаторские бои", "Гладиаторские бои\Гладиаторские бои.csproj", "{3FC512E1-964D-4984-8912-11518CCDF5B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GladiatorFights", "Гладиаторские бои\GladiatorFights.csproj", "{3FC512E1-964D-4984-8912-11518CCDF5B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

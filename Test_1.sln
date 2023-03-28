@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackQueueDictionary", "Sta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TableReservations", "TableReservations\TableReservations.csproj", "{F64BFCF5-ACE2-4DD6-A258-8EB3459CBAD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagementSystem", "LibraryManagementSystem\LibraryManagementSystem.csproj", "{9AB589DF-EC61-491B-BDD5-806B3FD8D433}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryManagementSystem", "LibraryManagementSystem\LibraryManagementSystem.csproj", "{9AB589DF-EC61-491B-BDD5-806B3FD8D433}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameGo", "GameGo\GameGo.csproj", "{605FFE24-2AF1-4FF2-8BE1-C8865B7DF0AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameGo", "GameGo\GameGo.csproj", "{605FFE24-2AF1-4FF2-8BE1-C8865B7DF0AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthBar", "HealthBar\HealthBar.csproj", "{70EA6721-9EC5-4171-AA4C-E8994413E118}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{605FFE24-2AF1-4FF2-8BE1-C8865B7DF0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{605FFE24-2AF1-4FF2-8BE1-C8865B7DF0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{605FFE24-2AF1-4FF2-8BE1-C8865B7DF0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70EA6721-9EC5-4171-AA4C-E8994413E118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70EA6721-9EC5-4171-AA4C-E8994413E118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70EA6721-9EC5-4171-AA4C-E8994413E118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70EA6721-9EC5-4171-AA4C-E8994413E118}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
